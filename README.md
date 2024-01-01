@@ -11,13 +11,13 @@ Port can be specified otherwise with the `-p` flag.
 
 `sockyc -?` provides help and available flags.
 
-## PROTOCOL
+## protocol
 
 `sockyc` just sends the message input in one go, followed by an ASCII EOT character (x04).
 
 It then closes the socket without reading a response.
 
-## BUILDING:
+## building
 
 ### Non-portable version:
 Has a slightly nicer CLI parser.
