@@ -29,7 +29,7 @@ Has a slightly nicer CLI parser.
 Utilizes Justine Tunney's excellent Cosmopolitan libc to build an APE binary that runs
 on Windows, macOS (including ARM64!), and Linux. Source in maincosmo.c
 
-Follow the instructions to download cosmopolitan libc from [](justine.lol/cosmopolitan)
+Follow the instructions to download cosmopolitan libc from [justine.lol/cosmopolitan](justine.lol/cosmopolitan)
 ```
 mkdir cosmocc
 cd cosmocc
